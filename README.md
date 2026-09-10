@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jakub, and I am an incoming student at the University of Chicago. I am planning on studying economics and computer science. Looking forward to learning a bunch!
+My name is Jakub, and I am a student at the University of Chicago. I am planning on studying economics and computer science. Looking forward to learning a bunch!
 
 ## Current Projects
 
